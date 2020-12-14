@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.bmicalculator",
+    package = "com.volt.bmicalculator",
 )
 
 android_resource(
     name = "res",
-    package = "com.bmicalculator",
+    package = "com.volt.bmicalculator",
     res = "src/main/res",
 )
 

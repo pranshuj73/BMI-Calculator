@@ -1,4 +1,4 @@
-package com.bmicalculator;
+package com.volt.bmicalculator;
 
 import android.app.Application;
 import android.content.Context;

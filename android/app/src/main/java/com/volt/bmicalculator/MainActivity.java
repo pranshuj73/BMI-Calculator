@@ -1,4 +1,4 @@
-package com.bmicalculator;
+package com.volt.bmicalculator;
 
 import com.facebook.react.ReactActivity;
 
